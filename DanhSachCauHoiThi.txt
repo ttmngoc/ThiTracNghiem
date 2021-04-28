@@ -1,0 +1,601 @@
+75
+500
+ANH4
+DOG la con gi?
+Con cho
+Con meo
+Con khi
+Khong co dap an dung
+Con cho
+400
+ANH5
+Elephent la con gi?
+Con Cho
+Con Meo
+Con Khi
+Khong co dap an dung
+Khong co dap an dung
+300
+ANH5
+Cat la con gi?
+Con Cho
+Con Meo
+Con Khi
+Khong co dap an dung.
+Con Meo
+200
+DIA4
+Viet Nam co bao nhieu dan toc?
+51
+52
+53
+54
+54
+100
+DIA4
+Viet Nam co bao nhieu tinh?
+63
+64
+65
+66
+63
+55
+DIA5
+Tinh Lam Dong thuoc vung nao cua Viet Nam?
+Trung du va mien nui bac bo
+Dong Nam Bo
+Dong bang Song Cuu Long
+Tay Nguyen
+Tay Nguyen
+50
+DIA5
+Tinh Dak Lak thuoc vung nao cua Viet Nam?
+Trung du va mien nui bac bo
+Dong Nam Bo
+Dong bang Song Cuu Long
+Tay Nguyen
+Tay Nguyen
+18
+DIA5
+Cay che duoc trong nhieu nhat o vung
+cao nguyen
+dong bang
+vung nui
+dong bang va cao nguyen
+vung nui
+19
+DIA5
+Cay ca phe duoc trong nhieu nhat o
+cao nguyen
+vung nui
+dong bang
+cao nguyen dong bang
+cao nguyen
+20
+DIA5
+Cay cao su duoc trong nhieu nhat o
+dong bang
+vung nui
+dong bang va vung nui
+cao nguyen
+cao nguyen
+21
+DIA5
+Cay an qua trong nhieu nhat o
+dong bang
+vung nui
+dong bang va vung nui
+cao nguyen
+dong bang va vung nui
+22
+DIA5
+Vung trong cay luong thuc nhieu nhat la
+dong bang Bac bo
+dong bang Nam Bo
+dong bang Nam Ngai
+dong bang Thanh Nghe Tinh
+dong bang Nam Bo
+23
+DIA5
+Loai cay nao duoc trong ngay cang nhieu
+cay cong nghiep cay an qua
+cay cong nghiep
+cay an qua
+lua gao
+cay cong nghiep cay an qua
+24
+DIA5
+Doi voi con nguoi chan nuoi cung cap
+thit sua
+thuc an hang ngay
+thit
+sua
+thuc an hang ngay
+25
+DIA5
+O vung nui nuoi nhieu
+ga
+vit
+trau
+trau bo
+trau bo
+26
+DIA5
+O vung dong bang nuoi nhieu
+trau
+bo
+lon
+lon va gia cam
+lon va gia cam
+27
+DIA5
+Cay xuat khau hang dau the gioi cua nuoc ta la
+lua gao
+che
+cao su
+cay an qua
+lua gao
+28
+SU4
+Ngay Bac Ho doc ban tuyen ngon doc lap?
+2-9-1945
+30-4-1945
+1-5-1945
+22-12-1945
+2-9-1945
+29
+SU4
+Ngay thanh lap quan doi nhan dan Viet Nam?
+2-9-1945
+30-4-1944
+1-5-1945
+22-12-1944
+22-12-1944
+30
+SU4
+Phong trao khang chien chong Phap lon nhat o Nam Ki khi Phap xam luoc nuoc ta do ai lanh dao 
+Nguyen Trung Truc
+Truong Dinh
+Nguyen Huu Huan
+Ho Xuan Nghiep
+Truong Dinh
+31
+SU4
+Binh Son ngay nay thuoc tinh
+Quang Ngai
+An Giang
+Long An
+Quang Nam
+Quang Ngai
+32
+SU4
+Tan An ngay nay thuoc tinh
+An Giang
+Ha Tien
+Long An
+Vinh Long
+Long An
+33
+SU4
+Truong Dinh chieu mo nghia binh danh Phap tu khi nao
+Tu cuoi nam 1959
+Khi nha Nguyen ki hoa uoc
+Khi Phap vua tan cong Gia Dinh
+Khi Phap chiem ba tinh mien Dong
+Khi Phap vua tan cong Gia Dinh
+34
+SU4
+Trieu dinh nha Nguyen ki hoa uoc nhuong ba tinh mien Dong Nam Ki cho Phap khi nao
+Nam 1959
+Khi Phap vua danh Gia Dinh
+Khi Truong Dinh chieu mo nghia binh danh Phap
+Nam 1862
+Nam 1862
+35
+SU4
+Khi nghia quan Truong Dinh dang thu duoc thang loi thi trieu dinh nha Nguyen lam gi 
+Ki hoa uoc
+Buoc Truong Dinh giai tan nghia binh
+Ban chuc lanh binh An Giang cho Truong Dinh
+Nhuong ba tinh mien Dong Nam Ki cho Phap
+Ki hoa uoc
+36
+SU4
+Vua ban cho Truong Dinh chuc lanh binh o
+Ha Tien
+Vinh Long
+An Giang
+Long An
+An Giang
+37
+SU4
+Dan chung va nghia quan muon gi khi Truong Dinh dang ban khoan suy nghi 
+Suy ton Truong Dinh lam chu soai
+Tiep tuc khang chien
+Phai tuan lenh vua
+Ton Truong Dinh lam Binh Tay Dai nguyen soai
+Ton Truong Dinh lam Binh Tay Dai nguyen soai
+38
+SU4
+Lanh binh la chuc quan
+Vo
+Van
+Chuc quan vo chi huy quan doi mot tinh
+Chuc quan dung dau tinh 
+Chuc quan vo chi huy quan doi mot tinh
+39
+SU4
+Truong Dinh da quyet dinh nhu the nao truoc niem tin yeu cua nghia quan va dan chung 
+Nhan chuc lanh binh 
+Tu choi chuc lanh binh 
+Phat cao co Binh Tay
+O lai cung nhan dan chong giac
+O lai cung nhan dan chong giac
+40
+SU4
+Dung truoc su phat trien khoa hoc ki thuat cua Chau Au va tu tuong bao thu cua trieu dinh nha Nguyen ai la nguoi co chu truong doi moi dat nuoc? 
+Nguyen Lo Trach
+Pham Phu Thu 
+Nguyen Truong To
+Ca A B C deu dung 
+Nguyen Truong To
+41
+SU4
+Sau khi tu Phap tro ve Nguyen Truong To da trinh len vua Tu Duc ban dieu tran trong do bay to
+Mo rong quan he ngoai giao voi nhieu nuoc den giup nhan dan ta khai thac cac nguon loi ve bien rung dat dai khoang san 
+De nghi khong cho thuong nhan nuoc ngoai vao nuoc ta lam an mua ban 
+Mo truong day dong tau duc sung va day cach su dung may moc 
+Ca A va C dung
+Ca A va C dung
+42
+SU5
+Thong qua ban dieu tran Nguyen Truong To mong muon dieu gi cho dat nuoc 
+Muon nhan dan thoat khoi canh ngheo doi 
+Muon dat nuoc cai cach phai tiep can voi khoa hoc tien tien tren the gioi luc bay gio
+Ong mong muon xoa bo che do phong kien duong thoi 
+Ca A va B dung 
+Muon dat nuoc cai cach phai tiep can voi khoa hoc tien tien tren the gioi luc bay gio
+43
+SU5
+Nguyen Truong To duoc nguoi doi sau kinh trong la boi
+Ong lap duoc nhieu chien cong trong viec danh Phap 
+Ong giai quyet duoc nhieu cong an viec lam cho nhan dan 
+Ong co cong trong viec khai pha mo rong bo coi 
+Ong la nguoi biet nhin xa trong rong co long yeu nuoc nong nan voi mong muon tha thiet canh tan dat nuoc
+Ong la nguoi biet nhin xa trong rong co long yeu nuoc nong nan voi mong muon tha thiet canh tan dat nuoc
+44
+SU5
+Nguyen Truong To tu Phap tro ve da ke cho cac quan trong trieu nghe thay doi gi o xa hoi Phap ma ong chung kien 
+Chuyen den dien khong co dau van sang 
+Khi lam nong nghiep nguoi nong dan Phap van phai dung cay bang suc nguoi 
+Xe dap hai banh chay bang bang ma van khong do 
+Ca A va C dung
+Ca A va C dung
+45
+SU5
+Vua Tu Duc khi nghe de nghi canh tan cua Nguyen Truong To da
+Dong y va cho thuc hien ngay 
+Khong nghe theo vi cho rang nhung phuong phap cu cung du de dieu khien dat nuoc
+Co thuc hien nhung khong triet de 
+Cho bat Nguyen Truong To vao nguc boi ong co tu tuong than Phap 
+Khong nghe theo vi cho rang nhung phuong phap cu cung du de dieu khien dat nuoc
+46
+SU5
+Nam 1884 sau khi trieu dinh Hue ki hiep uoc cong nhan quyen do ho cua thuc dan Phap tren toan bo nuoc ta  trieu dinh Hue da lam gi?
+Hoa hoan thuong thuyet voi Phap 
+Cuong quyet cung nhan dan tiep tuc chien dau chong Phap gianh lai doc lap dan toc 
+Cau cuu nha Thanh dua quan sang danh Phap
+Ca A va B dung 
+Cau cuu nha Thanh dua quan sang danh Phap
+47
+SU5
+Duoc tin Ton That Thuyet chuan bi luc luong danh Phap Thuc dan Phap da su dung am muu nao de doi pho voi Ton That Thuyet 
+Moi Ton That Thuyet cong tac voi Phap 
+Moi Ton That Thuyet den gia vo hop roi bat ong
+Am sat Ton That Thuyet de loai tru nguy co tao phan
+Bat coc nhung nguoi than nham gay suc ep voi ong 
+Moi Ton That Thuyet den gia vo hop roi bat ong
+48
+SU5
+Cuoc khoi nghia nao thuoc phong trao khoi nghia huong ung Chieu Can Vuong 
+Khoi nghia Ba Dinh Thanh Hoa 
+Khoi nghia Bai Say Hung Yen 
+Khoi nghia Huong Khe Ha Tinh 
+Ca A B va C dung
+Ca A B va C dung
+49
+SU5
+Vao dem mong 4 rang sang 5 7 1885 trong canh vang lang kinh thanh Hue viec gi da xay ra 
+Canh tha den tren song Huong 
+Am thanh cua nhung thoi det vai 
+Tieng sung than cong no ram troi lua chay sang ruc
+Ca A va B dung 
+Tieng sung than cong no ram troi lua chay sang ruc
+50
+SU5
+Vao nhung nam cuoi the ki XIX dau the ki XX sau khi dap tat phong trao dau tranh vu trang cua nhan dan ta thuc dan Phap da
+Tap trung dau tu phat trien kinh te 
+Day manh va phat trien he thong giao duc tren ca nuoc 
+Dat ach thong tri va tang cuong boc lot vo vet tai nguyen cua nuoc ta
+Tu bo da tam xam luoc nuoc ta chuyen giao chinh quyen cho trieu dinh Hue 
+Dat ach thong tri va tang cuong boc lot vo vet tai nguyen cua nuoc ta
+51
+SU5
+Tu cuoi the ki XIX o Viet Nam ta da xuat hien nganh kinh te moi nao 
+Nen cong nghiep khai khoang 
+Nganh det 
+Nganh san xuat xi mang dien nuoc 
+Ca A B va C dung
+Ca A B va C dung
+52
+SU5
+Nhung thay doi ve chinh tri va kinh te nuoc ta cuoi the ki XIX dau the ki XX duoc bieu hien nhu the nao 
+Mot so nguoi lam an phat dat da tro thanh chu xuong hoac nha buon lon 
+Bo may cai tri thuoc dia hinh thanh 
+Thanh thi phat trien buon ban mo mang da lam xuat hien tang lop vien chuc tri thuc chu xuong nho 
+Ca A B C dung
+Ca A B C dung
+53
+SU5
+Nhung thay doi kinh te da tao ra giai cap tang lop moi nao trong xa hoi 
+Dia chu
+Cong nhan chu xuong nha buon vien chuc tri thuc
+Nong dan
+Quan lai phong kien 
+Cong nhan chu xuong nha buon vien chuc tri thuc
+54
+SU5
+Giai cap cong nhan Viet Nam chu yeu xuat than tu
+Nong dan bi mat ruong dat ngheo doi
+Gioi tri thuc khong duoc trong dung
+Tho thu cong khong co viec lam 
+Nha buon bi pha san 
+Nong dan bi mat ruong dat ngheo doi
+77
+DIA5
+Tinh Tra Vinh thuoc vung nao cua Viet Nam?
+Trung du va mien nui bac bo
+Dong Nam Bo
+Dong bang Song Cuu Long
+Tay Nguyen
+Dong bang Song Cuu Long
+55
+SU5
+Cau 29 Vao nhung nam dau the ki XX nuoc ta co khoang bao nhieu van cong nhan 
+Khoang 6 van cong nhan 
+Khoang 10 van cong nhan
+Khoang 20 van cong nhan 
+Khoang 1 van cong nhan
+Khoang 10 van cong nhan
+56
+SU5
+Vao cuoi the ki XIX dau the ki XX nguoi nong dan roi vao hoan canh
+Nhu trau keo cay 
+Tro thanh nguoi ban cung 
+Mat ruong dat vao tay dia chu va tro thanh nguoi lam thue 
+Ca A B va C dung
+Ca A B va C dung
+57
+SU5
+Ngay giai phong hoan toan mien nam?
+2-9-1975
+30-4-1975
+3-2-1975
+27-7-1975
+30-4-1975
+58
+SU5
+Chien dich Dien Bien Phu dien ra nam nao?
+1945
+1954
+1963
+1964
+1954
+59
+TOAN4
+Hinh vuong co may canh?
+2
+3
+4
+5
+4
+60
+TOAN4
+x + 15 = 20. Tim x= ?
+2
+3
+4
+5
+5
+61
+TOAN5
+Cong thuc tinh dien tich hinh vuong?
+Canh x4
+Canh x2
+Canh /2
+Khong co dap an dung
+Khong co dap an dung
+62
+TOAN5
+Cong thuc tinh dien tich hinh chu nhat?
+Dai x rong
+Dai + rong
+(Dai + rong)x2
+Khong co dap an dung
+Dai x rong
+63
+TOAN5
+Trong so 468 37 chu so 7 chi
+don vi
+7 chuc
+7 phan muoi
+7 phan tram
+7 phan tram
+64
+TOAN5
+Trong vuon thu co 6 con su tu Trung binh moi ngay co mot con an het 9kg thit Hoi can bao nhieu tan thit de nuoi so su tu do trong 30 ngay 
+1,56 tan
+1,59 tan
+1,62 tan
+1,65 tan
+1,62 tan
+65
+TOAN5
+Mua 12 hop do dung hoc toan het 180 000 dong Hoi mua 36 hop do dung hoc toan nhu the het bao nhieu tien 
+500 000 dong
+540 000 dong
+600 000 dong
+650 000 dong
+540 000 dong
+66
+VAN4
+Cho cac tu sau, tu nao la tu lay?
+Xanh xanh
+Cay coi
+Cay bang
+Khong co dap an dung
+Xanh xanh
+67
+VAN4
+Dong nao gom cac tu lay 
+Dong dao dong duc dong dong dong du den den den dui den dua 
+Chuyen chinh chan chat chan chinh cham chi cham chap 
+Nhe nhang nho nho nho nhung nhan nhat nhat nheo nhap nhom nhung nhuc
+Hao hao hot hoang hay hay hot hai hoi hop hiu hiu hoc hanh 
+Nhe nhang nho nho nho nhung nhan nhat nhat nheo nhap nhom nhung nhuc
+68
+VAN4
+Cap quan he tu trong cau sau bieu thi quan he gi? Cau: Khong chi sang tac nhac Van Cao con viet van va lam tho 
+Quan he nguyen nhan ket qua 
+Quan he tuong phan 
+Quan he dieu kien ket qua 
+Quan he tang tien
+Quan he tang tien
+69
+VAN4
+Tu “danh” trong cau nao duoc dung voi y nghia goc 
+Me chang danh em Hoa bao gio vi em rat ngoan
+Ban Hung co tai danh trong 
+Quan dich bi cac chien si ta danh lac huong 
+Bo cho chu be danh giay mot chiec ao len
+Me chang danh em Hoa bao gio vi em rat ngoan
+70
+VAN4
+Thanh ngu tuc ngu nao noi ve tinh Cham Chi? 
+Chin bo lam muoi 
+Dam mua dai nang 
+Thuc khuya day som
+Dung mui chiu sao 
+Thuc khuya day som
+71
+VAN4
+Dong nao chi gom cac dong tu 
+Niem vui tinh yeu tinh thuong niem tam su 
+Vui tuoi dang yeu dang thuong su than thuong 
+Vui tuoi niem vui dang yeu tam su 
+Vui choi yeu thuong thuong yeu tam su
+Vui choi yeu thuong thuong yeu tam su
+72
+Van4
+"Nha cua" la tu gi?
+Tu lay
+Tu don
+Tu phuc
+Khong co dap an dung
+Tu phuc
+73
+VAN5
+Trong "Truyen ke ve Ly Tu Trong", Ly Tu Trong que o dau?
+Ninh Thuan
+Nghe An
+Ha Tinh
+Hue
+Ha Tinh
+74
+VAN5
+Trong bai "Nhung con seu bang giay",xa-da-co bi nhiem phong xa nguyen tu khi nao?
+Chien tranh the gioi thu I
+Chien tranh the gioi thu II
+My nem 2 qua bom nguyen tu xuong Nhat Ban
+Khong co dap an dung
+My nem 2 qua bom nguyen tu xuong Nhat Ban
+600
+ANH4
+Monkey la con gi?
+Con cho
+Con meo
+Con khi
+Khong co dap an dung
+Con khi
+550
+DIA4
+Viet Nam thuoc chau luc nao?
+Chau A
+Chau Au
+Chau My
+Chau Dai Duong
+Chau A
+700
+ANH4
+Good Morning la gi?
+Chao buoi sang
+Chao buoi trua
+Chao buoi chieu
+Chao buoi toi
+Chao buoi sang
+664
+DIA4
+Tinh Dong Nai thuoc vung nao cua Viet Nam?
+Trung du va mien nui bac bo
+Dong Nam Bo
+Dong bang Song Cuu Long
+Tay Nguyen
+Dong Nam Bo
+800
+ANH4
+Good afternoon la gi?
+Chao buoi sang
+Chao buoi trua
+Chao buoi chieu
+Chao buoi toi
+Chao buoi chieu
+712
+DIA4
+TP Ho Chi Minh thuoc mien nao?
+Mien Trung
+Mien Tay
+Mien Nam
+Mien Bac
+Mien Nam
+788
+VAN5
+Bai do cua tac gia
+a
+b
+c
+th
+th
+900
+ANH4
+Good evening la gi?
+Chao buoi sang
+Chao buoi trua
+Chao buoi chieu
+Chao buoi toi
+Chao buoi toi
+813
+DIA4
+Khanh Hoa thuoc mien nao?
+Mien Trung
+Mien Tay
+Mien Nam
+Mien Bac
+Mien Trung
+1000
+ANH5
+What is your phone number?
+So dien thoai cua ban la gi?
+So nha ban la gi?
+So dien thoai cua anh ay la gi?
+So dien thoai cua co ay la gi?
+So dien thoai cua ban la gi?

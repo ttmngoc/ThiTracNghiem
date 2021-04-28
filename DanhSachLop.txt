@@ -1,0 +1,193 @@
+5
+L4A,LOP 4A NANG CAO,2019-2020
+6
+L4A1,TRAN THI MY,NGOC,NU,l4a1
+3
+ANH4,10,2p,3
+900Good evening la gi?
+Chao buoi toi
+Chao buoi trua
+Chao buoi sang
+Chao buoi chieu
+a,0
+700Good Morning la gi?
+Chao buoi trua
+Chao buoi sang
+Chao buoi toi
+Chao buoi chieu
+b,0
+600Monkey la con gi?
+Con meo
+Con khi
+Con cho
+Khong co dap an dung
+b,0
+DIA4,0,1p,6
+200
+
+
+
+
+ ,1
+712
+
+
+
+
+ ,1
+100
+
+
+
+
+ ,1
+813
+
+
+
+
+ ,1
+550
+
+
+
+
+ ,1
+664
+
+
+
+
+ ,1
+TOAN4,5,2p,2
+60x + 15 = 20. Tim x= ?
+4
+5
+2
+3
+c,1
+59Hinh vuong co may canh?
+5
+2
+4
+3
+c,0
+L4A2,TA DUC,MANH,NAM,L4A2
+3
+ANH4,10,2p,3
+500DOG la con gi?
+Con meo
+Con khi
+Khong co dap an dung
+Con cho
+d,0
+700Good Morning la gi?
+Chao buoi sang
+Chao buoi toi
+Chao buoi trua
+Chao buoi chieu
+a,0
+800Good afternoon la gi?
+Chao buoi toi
+Chao buoi trua
+Chao buoi chieu
+Chao buoi sang
+c,0
+DIA4,5N,
+SU4,5N,
+L4A3,DINH THI,NGOC,NU,L4A3
+1
+ANH4,7N,
+L4A4,NGUYEN,NHAT,NAM,L4A4
+1
+VAN4,7N,
+L4A5,BUI NHAT,MINH,NAM,L4A5
+4
+ANH4,1N,
+SU4,7N,
+TOAN4,4N,
+VAN4,4N,
+L4A7,PHAN THIEN,PHU,NAM,phu
+0
+L4B,LOP 4B,2019-2020
+5
+L4B1,VO THI THANH,PHUONG,NU,L4B1
+3
+ANH4,3N,
+DIA4,4N,
+SU4,4N,
+L4B2,DANG HOANG,VI,NU,L4B2
+2
+ANH4,10N,
+TOAN4,10N,
+L4B3,VO HOANG,DUY,NAM,L4B3
+0
+L4B4,TRAN VAN,LONG,NAM,L4B4
+1
+TOAN4,3N,
+L4B5,NGUYEN THI,LAN,NU,L4B5
+1
+VAN4,4N,
+L4C,LOP 4C,2019-2020
+5
+L4C1,PHAM THANH,THAO,NU,L4C1
+0
+L4C2,DUONG TAN,PHAT,NAM,L4C2
+1
+ANH4,4N,
+L4C3,NGUYEN THAI,BAO,NAM,L4C3
+1
+DIA4,4N,
+L4C4,DUONG KHANH,THU,NU,L4C4
+3
+DIA4,10N,
+SU4,7N,
+TOAN4,4N,
+L4C5,DANG TAN,LUC,NAM,L4C5
+2
+DIA4,5N,
+VAN4,4N,
+L5A,LOP 5A NANG CAO,2019-2020
+5
+L5A1,NGUYEN THI,THUY,NU,l5a1
+2
+TOAN5,10N,
+VAN5,2N,
+L5A2,NGUYEN THANH,DAT,NAM,L5A2
+1
+SU5,9N,
+L5A3,NGUYEN,TUAN,NAM,l5a3
+2
+DIA5,8N,
+SU5,5N,
+L5A4,NGUYEN THI KIM,SA,NU,L5A4
+3
+DIA5,9N,
+SU5,6N,
+VAN5,9N,
+L5A5,TRAN UYEN,PHUONG,NU,l5a5
+2
+ANH5,10N,
+SU5,4N,
+L5B,LOP 5B TUYEN CHON,2019-2020
+5
+L5B1,NGUYEN PHUONG,NAM,NAM,L5B1
+3
+ANH5,5N,
+TOAN5,3N,
+VAN5,3N,
+L5B2,HA THI,HOAN,NU,L5B2
+2
+ANH5,4N,
+TOAN5,9N,
+L5B3,VO THI THU,HIEN,NU,L5B3
+2
+DIA5,3N,
+TOAN5,8N,
+L5B4,NGUYEN PHAM NHAT,MINH,NAM,L5B4
+1
+TOAN5,3N,
+L5B5,LE DUY,KHANG,NAM,L5B5
+2
+TOAN5,4N,
+VAN5,8N,
